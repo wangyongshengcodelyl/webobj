@@ -48,14 +48,11 @@ NodeJS全栈开发之后端接口开发基于Node.js+Express+Mysql实现RESTFUL 
 
 # 下载安装依赖
 ```
-git clone https://github.com/jackchen0120/todo-nodejs-api.git
 cd todo-nodejs-api
 npm install 或 yarn
 ```
 
-## MySQL安装
 
-请移步到我的一篇博客[前端必知必会MySQL的那些事儿 - NodeJS全栈成长之路](https://juejin.im/post/5ee6010ef265da76d3188ea8)
 
 
 ## 开发模式
@@ -64,13 +61,5 @@ npm start
 ```
 运行之后，访问地址：http://localhost:8088
 
-## 生产环境（后台启动服务）
-```
-pm2 start ecosystem.config.js
-```
 
-## 获取更多实操经验及项目源码
 
-欢迎关注个人公众号：**懒人码农**
-
-<img src="https://img-blog.csdnimg.cn/20200531011333650.png#pic_center?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzE1MDQxOTMx,size_16,color_FFFFFF,t_70" width="200" alt="公众号二维码" />
